@@ -1,2 +1,2 @@
 # simple-todo
-Simple Todo app in using React + Vite + Typescript
+Simple Todo app built using React + Vite + Typescript
