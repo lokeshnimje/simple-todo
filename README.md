@@ -1,6 +1,6 @@
 Simple To-do app where users can add new to-do tasks, edit existing tasks and delete particular tasks. It has one undo button to undo the last deleted task from the list, and also it has one download button to download a list in CSV format.
 
-Run the app by clicking here  -> : [Todo-app](simple-todo-react-vite.netlify.app/)
+*Run the app by clicking here*  -> : [Todo-app](https://simple-todo-react-vite.netlify.app/)
 
 
 ## Tech Stacks used: 
